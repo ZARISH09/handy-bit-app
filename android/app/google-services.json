@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331378749707",
+    "project_id": "fixly-e3f93",
+    "storage_bucket": "fixly-e3f93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331378749707:android:d996f47ddc47dfdd13720e",
+        "android_client_info": {
+          "package_name": "com.handybit.handy_bit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjlz7VxOag4XcddylG1Ljhz8OtboNARqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
